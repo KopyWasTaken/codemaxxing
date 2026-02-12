@@ -8,6 +8,8 @@ Skills that the AI can use can be found in the `ai_skills` folder.
 
 Each problem can be found in its own directory within the `exercises` folder.
 
+Problems that have been asked before live on each line in MEMORY.md.
+
 Each problem is a directory that contains:
 
 - The problem to be solved in README.md, along with any instructions to get the code in the directory working (such as installing languages, initializing environments, installing dependencies, etc.)

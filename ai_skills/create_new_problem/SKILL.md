@@ -31,6 +31,8 @@ Next, ask the user what type of problem they'd like to solve, choosing from a li
 
 Also include an option that picks randomly from the list of options.
 
+Next, take a look at MEMORY.md to see a list of all of the problems asked in the past. Use this list to make sure you do not generate the same problem over again, or anything too similar to the problems asked before.
+
 Next, generate a programming interview question using the topic the user chose. 
 
 Next, create 3 files in that new directory:
@@ -40,3 +42,5 @@ Next, create 3 files in that new directory:
 - test.file_ext, where file_ext is the file extension used for the programming language the user has chosen. This will hold code that will test the implementation in the solution file, and any boilerplate needed for that to happen.
 
 Do not give overly useful hints in the README or in comments in any of the generated files. Do explain examples though when writing out the problem.
+
+Finally, add a new line to MEMORY.md with a description of the problem.
