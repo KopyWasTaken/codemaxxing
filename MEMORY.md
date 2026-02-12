@@ -1,1 +1,2 @@
 01 - Container With Most Water: Two-pointer technique to find maximum water container area between vertical lines in an array.
+02 - Reverse Linked List: Iteratively or recursively reverse a singly linked list using pointer manipulation.
